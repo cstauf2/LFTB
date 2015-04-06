@@ -1,3 +1,4 @@
 *.log
 .htaccess
 art/
+ui/node_modules/
